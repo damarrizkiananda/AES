@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Rezqy\Kuliah\Kuliah\Semester 5\Perancangan Sistem Digital\Tugas Akhir\AES coba mbuh\simulation\qsim
+vAES_TOP
+Z1 IX`>MH2WRTIVfh3::Rm0Vz1
+Z2 VT@23CoVUz`PJCD[nak`Sz1
+Z3 dE:\Rezqy\Kuliah\Kuliah\Semester 5\Perancangan Sistem Digital\Tugas Akhir\AES coba mbuh\simulation\qsim
+Z4 w1574680579
+Z5 8aes.vo
+Z6 Faes.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|aes.vo|
+Z9 o-work work -O0
+Z10 n@a@e@s_@t@o@p
+!i10b 1
+Z11 !s100 5]E6?OfAcXJnk9T_IG<4b1
+!s85 0
+Z12 !s108 1574680582.141000
+Z13 !s107 aes.vo|
+!s101 -O0
+vAES_TOP_vlg_check_tst
+!i10b 1
+Z14 !s100 f6VXCQh@RefNcGOZ8_<nM0
+Z15 IDRW59oJEadNGCAe=PfUji3
+Z16 VjZQLU@z0a>XhjOPfGBh8[0
+R3
+Z17 w1574680577
+Z18 8aes.vt
+Z19 Faes.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z20 !s108 1574680582.704000
+Z21 !s107 aes.vt|
+Z22 !s90 -work|work|aes.vt|
+!s101 -O0
+R9
+Z23 n@a@e@s_@t@o@p_vlg_check_tst
+vAES_TOP_vlg_sample_tst
+!i10b 1
+Z24 !s100 QGI<JJ1CF=6`Z2SXW@^KJ3
+Z25 I5bcRnO55_;KO:l;Sg@jAH1
+Z26 Vcdc>Z7CAj>A:ZlPi[PX1Q0
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@a@e@s_@t@o@p_vlg_sample_tst
+vAES_TOP_vlg_vec_tst
+!i10b 1
+Z28 !s100 mU^XL?hP3S:0>MGXK4P<S3
+Z29 IGnk1GRf7CjUS6cNH6YHP?2
+Z30 VJ9<c`OXdfSQR6F7iXlIMR0
+R3
+R17
+R18
+R19
+Z31 L0 2439
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@a@e@s_@t@o@p_vlg_vec_tst
